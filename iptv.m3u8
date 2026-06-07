@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=" [SP] LIVE SPORTS " tvg-id="101", [SP] LIVE SPORTS 
+http://10.121.121.10:8088/101/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] T-SPORTS" tvg-id="102", [SP] T-SPORTS
+http://10.121.121.10:8088/102/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] GTV" tvg-id="106", [SP] GTV
+http://10.121.121.10:8088/106/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1" tvg-id="110", [SP] STAR-SPORTS-1
+http://10.121.121.10:8088/110/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2" tvg-id="115", [SP] STAR-SPORTS-2
+http://10.121.121.10:8088/115/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-1" tvg-id="119", [SP] SONY-TEN-1
+http://10.121.121.10:8088/119/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-2" tvg-id="120", [SP] SONY-TEN-2
+http://10.121.121.10:8088/120/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-3
+http://10.121.121.10:8088/121/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] SPL-1" tvg-id="123", [SP] SPL-1
+http://10.121.121.10:8088/123/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] SPL-2" tvg-id="124", [SP] SPL-2
+http://10.121.121.10:8088/124/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP] PTV" tvg-id="125", [SP] PTV
+http://10.121.121.10:8088/125/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [SP]  A SPORTS" tvg-id="128", [SP]  A SPORTS
+http://10.121.121.10:8088/128/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name="BENSPORTS-1" tvg-id="144",BENSPORTS-1
+http://10.121.121.10:8088/144/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name="BENSPORTS-2" tvg-id="145",BENSPORTS-2
+http://10.121.121.10:8088/145/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  EKATTOR-TV" tvg-id="201", [BD]  EKATTOR-TV
+http://10.121.121.10:8088/201/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  ATN-BANGLA" tvg-id="202", [BD]  ATN-BANGLA
+http://10.121.121.10:8088/202/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  ATN-NEWS" tvg-id="203", [BD]  ATN-NEWS
+http://10.121.121.10:8088/203/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  DBC-NEWS" tvg-id="204", [BD]  DBC-NEWS
+http://10.121.121.10:8088/204/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  SOMOY-NEWS" tvg-id="205", [BD]  SOMOY-NEWS
+http://10.121.121.10:8088/205/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]   MASRANGA-TV" tvg-id="206", [BD]   MASRANGA-TV
+http://10.121.121.10:8088/206/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]   CHANNEL-I" tvg-id="207", [BD]   CHANNEL-I
+http://10.121.121.10:8088/207/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]   NTV" tvg-id="208", [BD]   NTV
+http://10.121.121.10:8088/208/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]   JAMUNA-TV" tvg-id="209", [BD]   JAMUNA-TV
+http://10.121.121.10:8088/209/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  RTV" tvg-id="210", [BD]  RTV
+http://10.121.121.10:8088/210/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  BANGLAVISION-TV" tvg-id="212", [BD]  BANGLAVISION-TV
+http://10.121.121.10:8088/212/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [BD]  BTV-TV" tvg-id="217", [BD]  BTV-TV
+http://10.121.121.10:8088/217/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA" tvg-id="301", [INBD]  ZEE-BANGLA
+http://10.121.121.10:8088/301/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  STAR-JALSHA" tvg-id="302", [INBD]  STAR-JALSHA
+http://10.121.121.10:8088/302/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  JALSHA-MOVIES" tvg-id="303", [INBD]  JALSHA-MOVIES
+http://10.121.121.10:8088/303/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  COLORS-BANGLA" tvg-id="304", [INBD]  COLORS-BANGLA
+http://10.121.121.10:8088/304/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  ZEE-BANGLA-CINEMA" tvg-id="305", [INBD]  ZEE-BANGLA-CINEMA
+http://10.121.121.10:8088/305/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  SONY-ART" tvg-id="306", [INBD]  SONY-ART
+http://10.121.121.10:8088/306/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  ENTER-10-BANGLA" tvg-id="307", [INBD]  ENTER-10-BANGLA
+http://10.121.121.10:8088/307/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INBD]  COLOR-BANGLA_CINEMA" tvg-id="310", [INBD]  COLOR-BANGLA_CINEMA
+http://10.121.121.10:8088/310/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  STAR-PLUS" tvg-id="401", [IN]  STAR-PLUS
+http://10.121.121.10:8088/401/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  STAR-GOLD" tvg-id="402", [IN]  STAR-GOLD
+http://10.121.121.10:8088/402/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  SONY-ENT" tvg-id="403", [IN]  SONY-ENT
+http://10.121.121.10:8088/403/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  SONY-MAX" tvg-id="404", [IN]  SONY-MAX
+http://10.121.121.10:8088/404/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  COLORS-HIN" tvg-id="405", [IN]  COLORS-HIN
+http://10.121.121.10:8088/405/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  ZEE-CINEMA" tvg-id="406", [IN]  ZEE-CINEMA
+http://10.121.121.10:8088/406/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [IN]  &-PICTURE" tvg-id="407", [IN]  &-PICTURE
+http://10.121.121.10:8088/407/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [INEWS]  STAR GOLD TRIL" tvg-id="408", [INEWS]  STAR GOLD TRIL
+http://10.121.121.10:8088/408/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [EN]  STAR-MOVIE" tvg-id="501", [EN]  STAR-MOVIE
+http://10.121.121.10:8088/501/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [EN]  SONY-PIX" tvg-id="503", [EN]  SONY-PIX
+http://10.121.121.10:8088/503/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [KIDS]  NICK" tvg-id="601", [KIDS]  NICK
+http://10.121.121.10:8088/601/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [KIDS]  DURNTO-TV" tvg-id="605", [KIDS]  DURNTO-TV
+http://10.121.121.10:8088/605/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [KIDS]  CN_NETWORK" tvg-id="606", [KIDS]  CN_NETWORK
+http://10.121.121.10:8088/606/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [KIDS]  POGO" tvg-id="608", [KIDS]  POGO
+http://10.121.121.10:8088/608/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [MUSIC]  9xM" tvg-id="704", [MUSIC]  9xM
+http://10.121.121.10:8088/704/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [DOC]  DISCOVERY" tvg-id="801", [DOC]  DISCOVERY
+http://10.121.121.10:8088/801/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [DOC]  NGO-GEROPHY" tvg-id="802", [DOC]  NGO-GEROPHY
+http://10.121.121.10:8088/802/video.m3u8?token=YlJmVRTjHRuPF3
+#EXTINF:-1 tvg-name=" [MUSIC]  SANGIT_BANGLA" tvg-id="702", [MUSIC]  SANGIT_BANGLA
+http://10.121.121.10:8088/702/video.m3u8?token=YlJmVRTjHRuPF3
