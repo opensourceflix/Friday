@@ -233,3 +233,11 @@ https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", FUSSBALL 4K XT 3
+http://pepvip.xyz:8080/live/8795285adn/8795285/514706.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", FUSSBALL 4K XT4
+http://185.160.192.64/live/mangin15/85784/465816.ts
