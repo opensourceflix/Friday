@@ -187,3 +187,49 @@ http://katnaesc.xyz:8080/live/wwSb0r4u15-01-25/kEKH933/118987.ts
 #KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
 https://nowp.wasabih.net/channel/618/master.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", FUSSBALL 4 XT2
+http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", HK NOW 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+https://nowp.wasabih.net/channel/616/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", M6 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18ac06789510949f5fee55ee2274151:d7b9d6dba05741b1070d8c19743020f9,6a14d4e9a2ec70d060b873622d0fe0a3:4fe37af81e6be1edf17e2f5e00c67ae4
+https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", DIRECTV 4K Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1254207a47ff4ecabaac5c34e67a7c85:9850238e887fcb9ff5d56c5c2b27d53a,1bce24fc688b9974060c023f80ce8c92:18ef8e7ee1d81162ebdd064d1a070a2d,1ec861f633264b332092432fd8a8f399:5cd4fec3523f8453c85db73dc622a272,3b0428991d03b1fe32ac10cabc98c884:b3608209ecb567084aa69866d05fcfe6,3efc39af5177f2f411cb2facde7e8e8c:697903dfe4296f6e31c061ee1fe5ef61,4da389c28a96f6c8e78d397ae0a4b42c:5a297cf25d61d938ca58b6fb901cd065,6f5f2489795d38b855e66bdb8e864bd6:be06d4cfe4393341577a2d696b9be5cb
+https://dfwlive-v2-c0p4-os.directv.fastly-edge.com/Content/HLS.cps/Live/channel(LIVE4K-6002.dfw.2160)/index.m3u8?cdncpCtime=1781536806&cdncpDevice=2A67EDB80F02957FFE63B2C9E436FB92&cdncpToken=8c086ee291da3c0ff226401189a20953da0a28595910819540e09bfae97b6828
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", FOX4K 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Trt 2k
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Iran 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
